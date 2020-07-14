@@ -36,7 +36,7 @@ pip install --upgrade pip
 
 pkg install nmap -y
 
-git clone https://github.com/Oliveirae/BUSCAR-HOST-V2.git
+git clone https://github.com/Oliveirae/BUSCAR-HOST-V3
 
 cd BUSCAR-HOST-V2
 
